@@ -1,8 +1,17 @@
 # benefitfinder-ai
-BenefitFinder AI
 
-An intelligent system that helps Indian citizens discover
-government welfare schemes they are eligible for.
+BenefitFinder AI helps Indian citizens discover government schemes they are eligible for.
 
-The platform analyzes eligibility rules and recommends
-relevant benefits based on user profile data.
+The system analyzes eligibility conditions such as:
+
+- age
+- income
+- gender
+- location
+
+and recommends relevant schemes along with estimated benefits.
+
+Future features include:
+- automated scheme scraping
+- AI conversational assistant
+- benefit optimization engine
