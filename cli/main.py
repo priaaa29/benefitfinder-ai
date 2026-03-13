@@ -38,10 +38,10 @@ def main():
 
     for scheme in eligible:
         print("-", scheme["scheme_name"])
+        total = calculate_total_benefit(eligible)
+        print("\nTotal potential benefits: ₹", total)
 
-total = calculate_total_benefit(eligible)
 
-print("\nTotal potential benefits: ₹", total)
 
 if __name__ == "__main__":
     main()
